@@ -1,13 +1,16 @@
 # Person-Attribute-Recognition
 This project implements a pipeline for person attribute recognition and tracking using deep learning models. The pipeline detects persons in video frames, tracks them across frames, and recognizes their attributes such as age, gender, and various accessories or clothing items.
 
-#Features
+# Features
 Person detection using YOLOv8
+<br>
 Person tracking
+<br>
 Attribute recognition using a custom deep learning model
+<br>
 Annotated video output with detected attributes
 
-#Requirements
+# Requirements
 Python 3.8+
 PyTorch 1.10+
 OpenCV 4.5+
