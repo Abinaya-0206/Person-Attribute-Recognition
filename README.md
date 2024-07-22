@@ -12,10 +12,16 @@ Annotated video output with detected attributes
 
 # Requirements
 Python 3.8+
+<br>
 PyTorch 1.10+
+<br>
 OpenCV 4.5+
+<br>
 torchvision 0.11+
+<br>
 PIL (Pillow) 8.3+
+<br>
 numpy 1.21+
+<br>
 ultralytics
 
