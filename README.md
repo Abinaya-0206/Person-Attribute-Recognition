@@ -10,6 +10,8 @@ Attribute recognition using a custom deep learning model
 <br>
 Annotated video output with detected attributes
 
+
+
 # Requirements
 Python 3.8+
 <br>
@@ -25,3 +27,6 @@ numpy 1.21+
 <br>
 ultralytics
 
+# Output Video
+
+https://github.com/user-attachments/assets/2ee14155-78c8-4604-85c8-c7749fd1c5ce
